@@ -1,7 +1,16 @@
 # Recap
 
-## Blackjack app
+- [x] array
+- [x] object
+- [x] booleans
+- [x] if else statements
+- [x] comparaison operators
+- [x] logical operators
+- [x] for Loop
+- [x] Math object
+- [x] return statements
 
-To learn how to make websites interactive with JavaScript.
+## Check it out
+[Blackjack](2025-blackjack)
 
 Happy Coding!
