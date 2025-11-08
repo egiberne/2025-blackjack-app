@@ -10,8 +10,7 @@
 - [x] Math object
 - [x] return statements
 
-## Blackjack app
-
-To learn how to make websites interactive with JavaScript.
+## Check it out
+[Blackjack](2025-blackjack)
 
 Happy Coding!
