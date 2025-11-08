@@ -1,6 +1,5 @@
 # Recap
 
-Learnt :
 - [x] array
 - [x] object
 - [x] booleans
